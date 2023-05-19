@@ -1,7 +1,7 @@
 /* 
 - Las promesas se crean usando un constructor llamado 'Promise'.
-- Se le pasa una función que recibe dos parámetros: resolve y reject.
-- Dichos parámetros nos permiten indicar qué se resolvió o qué se rechazó. 
+- Se pasa una función que recibe dos parámetros: resolve y reject.
+- Dichos parámetros permiten indicar qué se resolvió o qué se rechazó. 
 */
 
 // Las promesas tienen 3 estados:
